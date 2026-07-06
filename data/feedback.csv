@@ -1,0 +1,41 @@
+id,date,customer_name,product,rating,feedback,category
+1,2024-01-05,Alice Johnson,Laptop Pro,5,"Absolutely love this laptop! The battery life is incredible and performance is top-notch.",Electronics
+2,2024-01-07,Bob Smith,Wireless Mouse,2,"The mouse disconnects frequently and the scroll wheel is already broken after a week.",Electronics
+3,2024-01-10,Carol Davis,Coffee Maker,4,"Great coffee maker, easy to use. Wish it had a timer feature but overall very happy.",Appliances
+4,2024-01-12,David Lee,Running Shoes,5,"Best running shoes I've ever owned. Super comfortable and great grip on all surfaces.",Footwear
+5,2024-01-15,Emma Wilson,Bluetooth Speaker,3,"Average sound quality. The bass is lacking but it's portable and easy to carry around.",Electronics
+6,2024-01-18,Frank Brown,Yoga Mat,5,"Excellent quality mat! Non-slip surface and very durable. Perfect for my daily sessions.",Fitness
+7,2024-01-20,Grace Kim,Smart Watch,1,"Terrible experience. The watch stopped working after 3 days. Very disappointed with the quality.",Electronics
+8,2024-01-22,Henry Martinez,Protein Powder,4,"Good taste and mixes well. Noticed improvements in recovery after workouts. Will buy again.",Nutrition
+9,2024-01-25,Isabella Chen,Desk Lamp,3,"Decent lamp but the brightness control is inconsistent. Works fine for basic use.",Home
+10,2024-01-28,James Taylor,Gaming Headset,5,"Amazing headset! Crystal clear audio, comfortable to wear for long sessions. Great mic quality.",Electronics
+11,2024-02-01,Karen Anderson,Air Purifier,4,"Noticeably cleaner air at home. Quiet operation and easy filter replacement. Very satisfied.",Appliances
+12,2024-02-03,Liam Thomas,Backpack,2,"Poor quality zippers and the stitching came apart within a month. Very disappointing.",Bags
+13,2024-02-06,Mia Jackson,Skincare Set,5,"Love this skincare set! My skin feels amazing and the packaging is beautiful and luxurious.",Beauty
+14,2024-02-09,Noah White,Office Chair,4,"Comfortable chair with great lumbar support. Assembly was a bit confusing but worth it.",Furniture
+15,2024-02-12,Olivia Harris,Cookbook,5,"Fantastic cookbook with easy-to-follow recipes. Tried 10 recipes and all turned out delicious!",Books
+16,2024-02-15,Patrick Garcia,Electric Toothbrush,3,"Okay toothbrush but battery life is shorter than advertised. Does the job but nothing special.",Personal Care
+17,2024-02-18,Quinn Martinez,Resistance Bands,5,"Perfect for home workouts! Good quality rubber and comes with different resistance levels.",Fitness
+18,2024-02-21,Rachel Robinson,Instant Pot,4,"Changed the way I cook! Quick and easy meals. Slightly tricky to learn but totally worth it.",Appliances
+19,2024-02-24,Samuel Clark,Wallet,2,"Cheap material that cracked quickly. Card slots are too tight. Looks nice but low quality.",Accessories
+20,2024-02-27,Tara Lewis,Watercolor Set,5,"Beautiful colors that blend perfectly. Great for beginners and experienced artists alike!",Art Supplies
+21,2024-03-02,Ulysses Walker,Laptop Stand,4,"Solid stand that improves my posture. Sturdy and adjustable. Great value for money.",Electronics
+22,2024-03-05,Victoria Hall,Protein Bar,1,"Tastes awful. Texture is chalky and leaves a bad aftertaste. Definitely not buying again.",Nutrition
+23,2024-03-08,William Allen,Smart Bulbs,5,"Amazing smart bulbs! Easy setup and the color options are incredible. Great app control.",Home
+24,2024-03-11,Xena Young,Tennis Racket,3,"Average racket for the price. Grip is decent but the strings lose tension quickly.",Sports
+25,2024-03-14,Yara Hernandez,Blender,4,"Powerful blender that handles tough ingredients easily. A bit loud but works perfectly.",Appliances
+26,2024-03-17,Zachary King,Noise Cancelling Headphones,5,"Exceptional noise cancellation and audio quality. Perfect for travel and work from home.",Electronics
+27,2024-03-20,Amelia Wright,Planner,4,"Very well organized planner with great layout. Helps me stay productive throughout the day.",Stationery
+28,2024-03-23,Benjamin Scott,Power Bank,2,"Stopped charging after two weeks. Very poor battery quality. Waste of money.",Electronics
+29,2024-03-26,Charlotte Green,Essential Oils,5,"High quality oils with strong scents. Perfect for aromatherapy and stress relief at home.",Wellness
+30,2024-03-29,Daniel Adams,Monitor,5,"Stunning display with vivid colors. The 4K resolution is breathtaking and eye strain is minimal.",Electronics
+31,2024-04-01,Emily Baker,Massage Gun,4,"Effective for muscle recovery. Multiple speed settings are useful. A bit heavy but powerful.",Fitness
+32,2024-04-04,Felix Carter,Water Bottle,3,"Good insulation but the lid leaks occasionally. Design is nice but needs quality improvement.",Kitchen
+33,2024-04-07,Gabriella Mitchell,Mascara,5,"Best mascara I've tried! Long-lasting formula and doesn't smudge. Perfect for everyday use.",Beauty
+34,2024-04-10,Harrison Perez,Keyboard,4,"Tactile and satisfying to type on. RGB lighting is cool. Great build quality overall.",Electronics
+35,2024-04-13,Iris Roberts,Puzzle,5,"Challenging and enjoyable puzzle. Pieces fit perfectly and the image quality is gorgeous.",Toys
+36,2024-04-16,Julian Turner,Thermos,2,"Terrible insulation. Coffee gets cold in an hour. Expected much better quality for the price.",Kitchen
+37,2024-04-19,Katherine Phillips,Hiking Boots,5,"Incredibly durable and comfortable boots. Excellent ankle support on rough terrain.",Footwear
+38,2024-04-22,Lucas Campbell,Wireless Earbuds,4,"Great sound quality and fit comfortably. Battery life is impressive. Good value for money.",Electronics
+39,2024-04-25,Madison Parker,Face Moisturizer,5,"Love this moisturizer! My skin has never felt so soft and hydrated. Will definitely reorder.",Beauty
+40,2024-04-28,Nathan Evans,Dumbbells,4,"Well-made and easy to grip. Rubber coating prevents floor damage. Great for home workouts.",Fitness
